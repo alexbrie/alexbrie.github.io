@@ -61,8 +61,8 @@ ul{list-style:disc;}
 li ul, li ol{margin-bottom:0}
 ol{list-style:decimal;}
 dt{font-weight:bold;}
-a:link, a:visited{color:#395a8d;text-decoration:none;}
-a:hover, a:focus, a:active{color:#2f2f65;text-decoration:underline;}
+a:link, a:visited{color:#111;text-decoration:underline;}
+a:hover, a:focus, a:active{color:#444;text-decoration:none;}
 hr{
  margin:1.3846em 0 1.308em 0;
  height:0;
